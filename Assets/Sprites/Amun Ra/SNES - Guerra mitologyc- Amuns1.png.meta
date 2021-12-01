@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: 60b214c7818b203458e3fb155a551d27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1161849294096564741
+    second: SNES - Guerra mitologyc- Amuns1_0
+  - first:
+      213: 756118145130348989
+    second: SNES - Guerra mitologyc- Amuns1_1
+  - first:
+      213: -1202390261483289346
+    second: SNES - Guerra mitologyc- Amuns1_2
+  - first:
+      213: 6842773653185186486
+    second: SNES - Guerra mitologyc- Amuns1_3
+  - first:
+      213: 5831129979074168400
+    second: SNES - Guerra mitologyc- Amuns1_4
+  - first:
+      213: -8275221185612220534
+    second: SNES - Guerra mitologyc- Amuns1_5
+  - first:
+      213: -5138335905557611218
+    second: SNES - Guerra mitologyc- Amuns1_6
+  - first:
+      213: 2842225082243438350
+    second: SNES - Guerra mitologyc- Amuns1_7
+  - first:
+      213: -185969659906612041
+    second: SNES - Guerra mitologyc- Amuns1_8
+  - first:
+      213: 6386328252675291576
+    second: SNES - Guerra mitologyc- Amuns1_9
+  - first:
+      213: -5422921572441277535
+    second: SNES - Guerra mitologyc- Amuns1_10
+  - first:
+      213: 7621607888003582290
+    second: SNES - Guerra mitologyc- Amuns1_11
+  - first:
+      213: 3172137941076335840
+    second: SNES - Guerra mitologyc- Amuns1_12
+  - first:
+      213: 5030199121330505463
+    second: SNES - Guerra mitologyc- Amuns1_13
+  - first:
+      213: -2700998905285753657
+    second: SNES - Guerra mitologyc- Amuns1_14
+  - first:
+      213: -5719930399127569625
+    second: SNES - Guerra mitologyc- Amuns1_15
+  - first:
+      213: 5697138306475412561
+    second: SNES - Guerra mitologyc- Amuns1_16
+  - first:
+      213: 7816712021703107033
+    second: SNES - Guerra mitologyc- Amuns1_17
+  - first:
+      213: -8095475676512526413
+    second: SNES - Guerra mitologyc- Amuns1_18
+  - first:
+      213: 8540472448248180460
+    second: SNES - Guerra mitologyc- Amuns1_19
+  - first:
+      213: 735121790062944420
+    second: SNES - Guerra mitologyc- Amuns1_20
+  - first:
+      213: 7854596084131142070
+    second: SNES - Guerra mitologyc- Amuns1_21
+  - first:
+      213: 8256449473230022129
+    second: SNES - Guerra mitologyc- Amuns1_22
+  - first:
+      213: -4738695964111393362
+    second: SNES - Guerra mitologyc- Amuns1_23
+  - first:
+      213: 2961312229970404545
+    second: SNES - Guerra mitologyc- Amuns1_24
+  - first:
+      213: 1965254882162453592
+    second: SNES - Guerra mitologyc- Amuns1_25
+  - first:
+      213: 6305280764231915006
+    second: SNES - Guerra mitologyc- Amuns1_26
+  - first:
+      213: 4227225852500086114
+    second: SNES - Guerra mitologyc- Amuns1_27
+  - first:
+      213: -7484889338350148882
+    second: SNES - Guerra mitologyc- Amuns1_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1113
+        width: 130
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acc783d4a42ad542a784af8138a287d
+      internalID: 1161849294096564741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1113
+        width: 129
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ba20c3522891f42b354fa27b68c4cf
+      internalID: 756118145130348989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1111
+        width: 124
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaaa19116c4205419f4d9933d5e1adb
+      internalID: -1202390261483289346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1111
+        width: 134
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454254ecd15cd0d45bacfbb429d8f062
+      internalID: 6842773653185186486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1111
+        width: 132
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9afd34dd5b75694faaf6b5487c9d45e
+      internalID: 5831129979074168400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1109
+        width: 133
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e67344d5a04649b4b402d3cac8cf2
+      internalID: -8275221185612220534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 843
+        width: 87
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ac046c262f3d5429ee1c622fd61327
+      internalID: -5138335905557611218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 838
+        width: 82
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7c625628fad1d4992ecb583109c0b5
+      internalID: 2842225082243438350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 845
+        width: 130
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97249c6eebfcef2439a514f28489c8bb
+      internalID: -185969659906612041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 843
+        width: 77
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b96de1bf6455f4f80b87e4e11eab49
+      internalID: 6386328252675291576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_10
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 843
+        width: 94
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760af0ed925ab4446baea9bfacd1fde1
+      internalID: -5422921572441277535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_11
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 843
+        width: 104
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc87e49ff349f334f9ce656adee5663a
+      internalID: 7621607888003582290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_12
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 844
+        width: 94
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d28736b3eaf54e40baeeafe28257b7b
+      internalID: 3172137941076335840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_13
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 837
+        width: 79
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d229f1b974e97143a6d60d03fb6669f
+      internalID: 5030199121330505463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_14
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 841
+        width: 79
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c82efff3a2713d4e9a8e3d7ee506a06
+      internalID: -2700998905285753657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_15
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 841
+        width: 75
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fd7173d5b1cbb48a49d414312b2d6d
+      internalID: -5719930399127569625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_16
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 842
+        width: 144
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8111a1f4cf31e904e97b6d6825cfc4d4
+      internalID: 5697138306475412561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 570
+        width: 62
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bac7688e810514c86ccc90c1712898
+      internalID: 7816712021703107033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 571
+        width: 78
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83275393f3d93d408c331f96b2f0bb6
+      internalID: -8095475676512526413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 572
+        width: 102
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ba13500a26e474fa970c65c2bbf239
+      internalID: 8540472448248180460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 574
+        width: 115
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab518079d29e83d479bc55023b089d40
+      internalID: 735121790062944420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_21
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 575
+        width: 100
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8576288b0473b4e963c70e578e72ae
+      internalID: 7854596084131142070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 80
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49a07a78b0c6b84080755d2478de4c8
+      internalID: 8256449473230022129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_23
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 572
+        width: 68
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca81a3bf427ce2848bedfb9bca069550
+      internalID: -4738695964111393362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_24
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 572
+        width: 120
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca56e13d3329ba74a96b97a8dd7be00c
+      internalID: 2961312229970404545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_25
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 574
+        width: 96
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8449c7ba86a92d14eb09918797eeccd9
+      internalID: 1965254882162453592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_26
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 571
+        width: 72
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecd6b42e8a015f43959c62226dff2d6
+      internalID: 6305280764231915006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_27
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 574
+        width: 78
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9695936489e771b47a4f75399cb2ef78
+      internalID: 4227225852500086114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Guerra mitologyc- Amuns1_28
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 576
+        width: 67
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9561e703afd2c5d438e2ce1c8464da1d
+      internalID: -7484889338350148882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d257f721e5df5bd42b3ad1d5b54cbb76
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

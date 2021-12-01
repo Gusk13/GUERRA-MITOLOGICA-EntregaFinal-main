@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: d922ddd657512c145b1e594d296f6db9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4715535337715149076
+    second: sprite_pose_0
+  - first:
+      213: -8903469289413198906
+    second: sprite_pose_1
+  - first:
+      213: 5823184508724706204
+    second: sprite_pose_2
+  - first:
+      213: 4305787044875801316
+    second: sprite_pose_3
+  - first:
+      213: 4673817503869994559
+    second: sprite_pose_4
+  - first:
+      213: 7913594835182338824
+    second: sprite_pose_5
+  - first:
+      213: 5605912891203210023
+    second: sprite_pose_6
+  - first:
+      213: -617271242881234821
+    second: sprite_pose_7
+  - first:
+      213: -6980051704081780188
+    second: sprite_pose_8
+  - first:
+      213: 3253037783025833781
+    second: sprite_pose_9
+  - first:
+      213: -2240047299684148989
+    second: sprite_pose_10
+  - first:
+      213: 8210224822271354344
+    second: sprite_pose_11
+  - first:
+      213: -3071865898715539213
+    second: sprite_pose_12
+  - first:
+      213: 8625053590336892201
+    second: sprite_pose_13
+  - first:
+      213: 3376712864518589351
+    second: sprite_pose_14
+  - first:
+      213: -1997417093014175082
+    second: sprite_pose_15
+  - first:
+      213: -7001953431622241310
+    second: sprite_pose_16
+  - first:
+      213: 8368045601604773627
+    second: sprite_pose_17
+  - first:
+      213: 5190509995965966597
+    second: sprite_pose_18
+  - first:
+      213: -8586245061359679355
+    second: sprite_pose_19
+  - first:
+      213: -7246205046420883462
+    second: sprite_pose_20
+  - first:
+      213: 6702283295309759589
+    second: sprite_pose_21
+  - first:
+      213: -1756684123907523300
+    second: sprite_pose_22
+  - first:
+      213: 6206738096325254273
+    second: sprite_pose_23
+  - first:
+      213: -334363474956200652
+    second: sprite_pose_24
+  - first:
+      213: -6522954754152560838
+    second: sprite_pose_25
+  - first:
+      213: -1611964504889727251
+    second: sprite_pose_26
+  - first:
+      213: 5210262920590659540
+    second: sprite_pose_27
+  - first:
+      213: -761451441897098907
+    second: sprite_pose_28
+  - first:
+      213: -117741660768538615
+    second: sprite_pose_29
+  - first:
+      213: -2980025969705198661
+    second: sprite_pose_30
+  - first:
+      213: 5177779372938798816
+    second: sprite_pose_31
+  - first:
+      213: -7473572072565925036
+    second: sprite_pose_32
+  - first:
+      213: -7628256734794838274
+    second: sprite_pose_33
+  - first:
+      213: -6047592399616341871
+    second: sprite_pose_34
+  - first:
+      213: 8322167370804305711
+    second: sprite_pose_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_pose_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 806
+        width: 90
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f369067570f87504facaf32aad6ee9bc
+      internalID: -4715535337715149076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 807
+        width: 90
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0045b15cfadd77f408209f23781d1bd6
+      internalID: -8903469289413198906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 807
+        width: 90
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469c9c419c928b14db93859993abe703
+      internalID: 5823184508724706204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 807
+        width: 90
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a81a28e2a878cc4abbdc814af9bc7c8
+      internalID: 4305787044875801316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 807
+        width: 91
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e29ea940aed8d46ac66a8bc52ae2c0
+      internalID: 4673817503869994559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_5
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 807
+        width: 90
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb8c78d341f04f42a41d0c4b6a74fc3
+      internalID: 7913594835182338824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_6
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 806
+        width: 90
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4ddd2b7dbc5044c9e077bd22825f75
+      internalID: 5605912891203210023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_7
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 808
+        width: 88
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34b8608b3911ad4883e2315012cf1be
+      internalID: -617271242881234821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_8
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 811
+        width: 88
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2265ca167f9ed794aafe489f5153c245
+      internalID: -6980051704081780188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_9
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 804
+        width: 90
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09025e50982aafe4e8fed627dcae0eb9
+      internalID: 3253037783025833781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_10
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 807
+        width: 88
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e1dc2c9e3aea0409ec3f6d92299a4e
+      internalID: -2240047299684148989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_11
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 811
+        width: 113
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4046a805c21bf74c928be7858d11fc6
+      internalID: 8210224822271354344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_12
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 809
+        width: 148
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0721b3b5d9cdb49a6f8f97fbb0c866
+      internalID: -3071865898715539213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 506
+        width: 72
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a1a39d0f0fe84dbbe6e8f35786ea9
+      internalID: 8625053590336892201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 505
+        width: 89
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723892d2763b95047be2f2fd8adfd75b
+      internalID: 3376712864518589351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_15
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 507
+        width: 126
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8efea81a500c4a45942751970641278
+      internalID: -1997417093014175082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_16
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 510
+        width: 79
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5373249aa75d5e45a6738ded3961bf4
+      internalID: -7001953431622241310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_17
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 510
+        width: 100
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283fd0daeea33194585268f087b86a27
+      internalID: 8368045601604773627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_18
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 508
+        width: 113
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1026372bcf8c4874191ccd4b0ba1914f
+      internalID: 5190509995965966597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_19
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 508
+        width: 104
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df014b525ee9f5148b47a184ac65e9ee
+      internalID: -8586245061359679355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_20
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 508
+        width: 86
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd792655156b4e14cbb195baf36d7b67
+      internalID: -7246205046420883462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_21
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 510
+        width: 93
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666771ada26b8a047afdc7450ddd6ba6
+      internalID: 6702283295309759589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_22
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 509
+        width: 91
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f150b7fbb99f34d9d0e27c508dff39
+      internalID: -1756684123907523300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_23
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 510
+        width: 171
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9311fa1b9655472429ed85581f2419bc
+      internalID: 6206738096325254273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 206
+        width: 72
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c282cf8121a6c47a68960a23237293
+      internalID: -334363474956200652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_25
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 208
+        width: 396
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae5f7e2292869244ab665a038732bf4
+      internalID: -6522954754152560838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_26
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 211
+        width: 95
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8166c00db3589d14c931a6bfd1814c35
+      internalID: -1611964504889727251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_27
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 210
+        width: 141
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c721cc69ee22dec4691b831ac6408a4f
+      internalID: 5210262920590659540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_28
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 442
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9468ce9bdfb9cfc4bade3f40c00a224f
+      internalID: -761451441897098907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_29
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 210
+        width: 111
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accd97d5d27f97c4aa9466448773cb7d
+      internalID: -117741660768538615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_30
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 210
+        width: 74
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e6c3667a7867e4f95023a0ece0229a
+      internalID: -2980025969705198661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_31
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 209
+        width: 87
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8addf9a4abcea1840aa2c9b96e630407
+      internalID: 5177779372938798816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_32
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 208
+        width: 78
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bd270b203135547801c4332c1ab7fb
+      internalID: -7473572072565925036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 208
+        width: 105
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed249fd3ef206524389d9ba0b211c458
+      internalID: -7628256734794838274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_34
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 207
+        width: 78
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8f9d251c0f6b84ab211e875eaf4aa5
+      internalID: -6047592399616341871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_pose_35
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 382
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9c7bc830bce734db87b061485459bf
+      internalID: 8322167370804305711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c7d1df9b9f7a76f4ab34f4b766924121
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

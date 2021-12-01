@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: 4515cbbd763b7534abb5b1baa8dac00e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1372100423586328616
+    second: calavera_sprite_0
+  - first:
+      213: -6830281479523640040
+    second: calavera_sprite_1
+  - first:
+      213: 2429155081989280777
+    second: calavera_sprite_2
+  - first:
+      213: -2920251991748358996
+    second: calavera_sprite_3
+  - first:
+      213: -704848010893213620
+    second: calavera_sprite_4
+  - first:
+      213: -5999935591807100806
+    second: calavera_sprite_5
+  - first:
+      213: -7187849860036822272
+    second: calavera_sprite_6
+  - first:
+      213: -9050867577624736745
+    second: calavera_sprite_7
+  - first:
+      213: -4535262786198891961
+    second: calavera_sprite_8
+  - first:
+      213: -4791776400955120361
+    second: calavera_sprite_9
+  - first:
+      213: 2681233509046173519
+    second: calavera_sprite_10
+  - first:
+      213: 7251541664838139663
+    second: calavera_sprite_11
+  - first:
+      213: 8044248859312413486
+    second: calavera_sprite_12
+  - first:
+      213: 1553085277787900269
+    second: calavera_sprite_13
+  - first:
+      213: -419261510768772524
+    second: calavera_sprite_14
+  - first:
+      213: -6048851252469376091
+    second: calavera_sprite_15
+  - first:
+      213: 8222165072208088255
+    second: calavera_sprite_16
+  - first:
+      213: -4064462372509610897
+    second: calavera_sprite_17
+  - first:
+      213: -9099784092941240786
+    second: calavera_sprite_18
+  - first:
+      213: 2571868548418666410
+    second: calavera_sprite_19
+  - first:
+      213: 6436062748503814599
+    second: calavera_sprite_20
+  - first:
+      213: 2327399937348361501
+    second: calavera_sprite_21
+  - first:
+      213: 4168925453610982893
+    second: calavera_sprite_22
+  - first:
+      213: 9048951870192665993
+    second: calavera_sprite_23
+  - first:
+      213: -6436163165160370107
+    second: calavera_sprite_24
+  - first:
+      213: 3685001115578384576
+    second: calavera_sprite_25
+  - first:
+      213: 1044017135036459402
+    second: calavera_sprite_26
+  - first:
+      213: 7612740903262657499
+    second: calavera_sprite_27
+  - first:
+      213: -7473043527573154100
+    second: calavera_sprite_28
+  - first:
+      213: 3571233044221618549
+    second: calavera_sprite_29
+  - first:
+      213: 7264086549196359942
+    second: calavera_sprite_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: calavera_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 806
+        width: 90
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcd51a2f4aafdf4aad57aec206227df
+      internalID: 1372100423586328616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 807
+        width: 90
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb04534a43e8b9449b9110055a7c8a3
+      internalID: -6830281479523640040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 807
+        width: 90
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65d11c485197f943b3ab560b49a32c8
+      internalID: 2429155081989280777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 807
+        width: 90
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f4f71851a443341888904116b86a4a
+      internalID: -2920251991748358996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 807
+        width: 91
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9466d60c663819c4f8e97a62fcff8156
+      internalID: -704848010893213620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 807
+        width: 90
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12247bfa61354a343857f74f5559806c
+      internalID: -5999935591807100806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 506
+        width: 72
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4178dfc3bbf39b47b5c6676545443bc
+      internalID: -7187849860036822272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 505
+        width: 89
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70963714f9ec581469b26b2a4d23bfef
+      internalID: -9050867577624736745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 507
+        width: 126
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4da2c962b9dd7648a87da9781dbd823
+      internalID: -4535262786198891961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 510
+        width: 79
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa70bbb2a2396c642be8de27bea425a3
+      internalID: -4791776400955120361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 510
+        width: 100
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9869fe252c2de4cb878213876effc6
+      internalID: 2681233509046173519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 508
+        width: 113
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8223171aea0717442a8d26ee0a8cdf4f
+      internalID: 7251541664838139663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 508
+        width: 104
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc6408d639afc24cbb77d9a44017264
+      internalID: 8044248859312413486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 508
+        width: 86
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b33e1d20cd51f845ae8476bd70102cd
+      internalID: 1553085277787900269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 510
+        width: 93
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88402d80dcefd0d45aadc0e8d50c4015
+      internalID: -419261510768772524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 509
+        width: 91
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000b964ed693f304384da28ec0266adb
+      internalID: -6048851252469376091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 510
+        width: 171
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec66f4a49f58bc042a640237d255bd7d
+      internalID: 8222165072208088255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 206
+        width: 72
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475b1c7faae035d4a9be9affe4d88f3f
+      internalID: -4064462372509610897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 206
+        width: 131
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5416473, y: 0.4938024}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7800d41ac62b3ea41bb95acd7e0391bf
+      internalID: -9099784092941240786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 211
+        width: 95
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3e6228c17bf804c93018e0125f7337
+      internalID: 2571868548418666410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 210
+        width: 141
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8509f037fd137054b851b972ddb1e0a4
+      internalID: 6436062748503814599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 210
+        width: 111
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33681b47f055c444ca47cb944e471dbf
+      internalID: 4168925453610982893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 210
+        width: 74
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e74926ef1a0b74aa02bc5eb29adc07
+      internalID: 9048951870192665993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 209
+        width: 87
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe49dfcc9952ba46bf3a0e641e077f2
+      internalID: -6436163165160370107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 208
+        width: 78
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af58bb4f4c17b2247a26c044c12da1a7
+      internalID: 3685001115578384576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 208
+        width: 105
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef10e96b3c1b427499b16756dd945c9a
+      internalID: 1044017135036459402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 207
+        width: 78
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b4410483d199343a78f9f9ad2ba5a3
+      internalID: 7612740903262657499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 203
+        width: 141
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b3caed20808904988b5925f0d1118d
+      internalID: 3571233044221618549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calavera_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 210
+        width: 122
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f77d37d2ffe7b94fab3b1c6228a7fd6
+      internalID: 7264086549196359942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 135be0beb530e0d4e902e2552f42b5d6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
